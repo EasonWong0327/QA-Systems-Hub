@@ -17,14 +17,14 @@
 
 ## 🌐 QA 系统导航一览
 
-| QA 类型 | 简介                                           | 项目链接                                                             |
-|--------|----------------------------------------------|------------------------------------------------------------------|
-| **FQA** | Frequently QA：高频问答，基于历史问答对的语义匹配与检索。          | [FQA-System](https://github.com/EasonWong0327/Hybrid-FQA-System) |
-| **KBQA** | Knowledge-Based QA：基于知识图谱，结构化三元组语义查询。        | [To-Be-Add: KBQA-System]()                                       |
-| **Multimodal QA** | 多模态问答：支持图像 + 文本等混合输入。                        | [To-Be-Add: Multimodal-QA-System]()                              |
-| **Text-to-SQL QA** | 自然语言转 SQL，用于结构化数据库问答。                        | [To-Be-Add: Text2sql-QA-System]()                                |
-| **LLM-based QA** | 基于大语言模型的文档问答、知识检索增强问答（RAG）。                  | [Hybrid-RAG-System](https://github.com/EasonWong0327/Hybrid-RAG-System)                                     |
-| **Agent-based QA** | 智能体问答，支持工具调用、长链路推理、任务分解（如 ReAct、AutoGPT 风格）。 | [To-Be-Add: Agent-QA-System]()                                   |
+| QA 类型 | 简介                                           | 项目链接                                                             | 完成状态 |
+|--------|----------------------------------------------|------------------------------------------------------------------|----------|
+| **FQA** | Frequently QA：高频问答，基于历史问答对的语义匹配与检索。          | [FQA-System](https://github.com/EasonWong0327/Hybrid-FQA-System) | ✅ 已完成 |
+| **KBQA** | Knowledge-Based QA：基于知识图谱，结构化三元组语义查询。        | [To-Be-Add: KBQA-System]()                                       | ⏳ 开发中 |
+| **Multimodal QA** | 多模态问答：支持图像 + 文本等混合输入。                        | [To-Be-Add: Multimodal-QA-System]()                              | ⏳ 开发中 |
+| **Text-to-SQL QA** | 自然语言转 SQL，用于结构化数据库问答。                        | [To-Be-Add: Text2sql-QA-System]()                                | ⏳ 开发中 |
+| **LLM-based QA** | 基于大语言模型的文档问答、知识检索增强问答（RAG）。                  | [Hybrid-RAG-System](https://github.com/EasonWong0327/Hybrid-RAG-System)                                     | ✅ 已完成 |
+| **Agent-based QA** | 智能体问答，支持工具调用、长链路推理、任务分解（如 ReAct、AutoGPT 风格）。 | [To-Be-Add: Agent-QA-System]()                                   | ⏳ 开发中 |
 
 ---
 
@@ -53,15 +53,6 @@
 
 ---
 
-## 📌 TODO
-- [X] FQA
-- [X] LLM-based QA
-- [ ] Text-to-SQL QA
-- [ ] Agent-based QA
-- [ ] Multimodal QA
-- [ ] KBQA
-
----
 
 ## 📜 License
 
@@ -73,3 +64,10 @@ MIT License，欢迎 Fork、学习、二次开发。
 
 **作者**: [ EasonWong ]  
 **邮箱**: eason0912happy@gmail.com  
+
+---
+
+## 🌐 语言导航
+
+- [中文版 README](README.md) - 中文版本
+- [English README](README_EN.md) - 英文版本
